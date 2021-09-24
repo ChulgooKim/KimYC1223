@@ -17,6 +17,7 @@
 - Bachelor of Science in Electronics at **Korea Aerospace University (한국항공대학교)**
 - Master of Science in Computer Science at **YonSei University (연세대학교 공학대학원)**
 - Joined as a researcher at **Korea Electronics Technology Institute (한국전자기술연구원)**
+- 영찬이바보
 
 ### Interest
 
